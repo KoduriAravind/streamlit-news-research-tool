@@ -28,9 +28,8 @@ RockyBot is a Streamlit application designed to process news article URLs, creat
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 3. pip install -r requirements.txt
 4. HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_token
-Usage
+### usage
 1.Run the Streamlit application:
-
 bash
 Copy code
 streamlit run app.py
